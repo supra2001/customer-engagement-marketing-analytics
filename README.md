@@ -4,6 +4,8 @@
 
 This project analyzes marketing performance for a fictional e-commerce company, **Shop Easy**, using SQL, Python, and Power BI. The objective was to identify factors affecting customer engagement, conversion rates, and customer satisfaction while providing actionable business insights.
 
+![Marketing Dashboard Demo](assets/marketing_gif.gif)
+
 ---
 
 ## Business Problem
